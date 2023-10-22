@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Compliance Toolkit<br>👯 I’m looking to collaborate on Cyber Security related Projects<br>🌱 I’m currently learning AI in Security<br>⚡ Fun fact --->>>Did you know that this cybersecurity enthusiast, currently diving into the fundamentals of computer science, can already spot more potential vulnerabilities in a line of code than most people can spot typos in a text message? Watch out for this future cybersecurity expert, because they're on their way to making the digital world a safer place, one code snippet at a time!
+🔭 I’m currently working on Data Compliance Toolkit<br>👯 I’m looking to collaborate on Cyber Security related Projects<br>🌱 I’m currently learning AI in Security<br>⚡ Fun fact --->>>Did you know that this cybersecurity enthusiast, currently diving into the fundamentals of computer science, can already spot more potential vulnerabilities in a line of code than most people can spot typos in a text message? Watch out for this future cybersecurity analyst, because they're on their way to making the digital world a safer place, one code snippet at a time!
 
 
 ## 🌐 Socials:
